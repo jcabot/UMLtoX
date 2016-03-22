@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Catalan language </comment>
+<entry key = "invalid.argument"> Argument no reconegut </entry>
+<entry key = "file.not.found"> Fitxer no trobat </entry>
+<entry key = "model.parameter.not.found"> Falta passar el model com a paràmetre </entry>
+<entry key = "unexpected.xmi.format"> Estructura del fitxer xmi incorrecte </entry>
+<entry key = "error.xmi.import"> Error durant la importació del model </entry>
+<entry key = "error.generation.database"> Error durant la generació de la base de dades </entry>
+<entry key = "error.generation.database.free.toobig"> Model més gran del permès per comptes gratuïtes </entry>
+<entry key = "error.generation.application"> Error durant la generació de l'aplicació</entry>
+<entry key = "error.trigger.multiplicity.min"> Multiplicitat mínima violada</entry>
+<entry key = "error.trigger.multiplicity.max"> Multiplicitat màxima violada</entry>
+
+<entry key = "heading.ddl.script"> DDL Script per a la generació de la base de dades </entry>
+<entry key = "heading.ddl.table"> Taula per guardar informació de </entry>
+<entry key = "heading.ddl.attribute"> Atribut per guardar informació de </entry>
+<entry key = "heading.ddl.drop.table"> Esborrar la versió anterior de les taules </entry>
+<entry key = "heading.ddl.sequence"> Creació dels comptadors automàtics per les claus primàries de les taules </entry>
+
+<entry key = "heading.yml.script"> Esquema YML corresponent al model </entry>
+<entry key = "heading.yml.table"> Classe per guardar les dades de </entry>
+<entry key = "heading.yml.attribute"> Atribut per guardar les dades de </entry>
+
+<entry key = "heading.python.admin.script"> Fitxer Admin pel model </entry>
+<entry key = "heading.python.domain.script"> Fitxer Domain pel model </entry>
+<entry key = "heading.python.table"> Classe per guardar les dades de </entry>
+<entry key = "heading.python.attribute"> Attribute per guardar les dades de </entry>
+
+
+<entry key = "app.caption.form.visualization"> Llista </entry>
+<entry key = "app.caption.form.insert"> Creació </entry>
+<entry key = "app.caption.form.update"> Modificació </entry>
+
+<entry key = "app.caption.menu.item.visualize"> Visualitzar </entry>
+<entry key = "app.caption.menu.item.insert"> Inserir </entry>
+<entry key = "app.caption.menu.item.file"> Arxiu </entry>
+<entry key = "app.caption.menu.item.exit"> Sortir </entry>
+<entry key = "app.caption.menu.item.about"> About </entry>
+<entry key = "app.caption.menu.item.home"> Inici </entry>
+
+<entry key = "app.caption.button.close"> Tancar </entry>
+<entry key = "app.caption.button.insert"> Crear </entry>
+<entry key = "app.caption.button.update"> Editar </entry>
+<entry key = "app.caption.button.delete"> Esborrar </entry>
+<entry key = "app.caption.button.details"> Veure </entry>
+<entry key = "app.caption.button.submit"> Submit </entry>
+
+<entry key = "app.caption.form.main.prefix"> Benvingut a l'aplicació</entry>
+<entry key = "app.caption.form.main.suffix"> Clica els ítems del menú per començar</entry>
+<entry key = "app.caption.homepage.suffix"> Clica aquí per començar</entry>
+
+<entry key = "app.caption.form.login"> Introdueix el teu nom d'usuari i la paraula de pas</entry>
+<entry key = "app.caption.editbox.login">Usuari</entry>
+<entry key = "app.caption.editbox.password">Paraula de pas</entry>
+<entry key = "error.connecting.database"> Ha fallat la connexió amb la base de dades </entry>
+<entry key = "error.connecting.database.info.missing"> Has d'entrar el nom d'usuari i la paraula de pas </entry>
+<entry key = "error.correction.request"> Corregeix si us plau els següents errors:</entry>
+<entry key = "app.exception.handling.goback"> Torna-ho a provar </entry>
+
+<entry key = "app.comment.code.connection"> Script per gestionar la connexió amb la base de dades</entry>
+<entry key = "app.comment.code.utils"> Script amb diverses funcions auxiliars</entry>
+<entry key = "app.comment.code.form.visualize"> Script encarregat de mostrar dades de tipus </entry>
+<entry key = "app.comment.code.persistent.connection"> La connexió es crea com a connexió persistent: es reutilitza a cada script</entry>
+<entry key = "app.comment.code.connection.succesful"> Si la connexió ha tingut èxit, redirigim l'usuari a la plana principal </entry>
+
+
+</properties>

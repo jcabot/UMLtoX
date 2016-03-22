@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Spanish language </comment>
+<entry key="file.not.found"> El fichero no existe</entry>
+<entry key="model.parameter.not.found"> Falta pasar el modelo como parámetro </entry>
+<entry key = "unexpected.xmi.format"> Estructura del fichero xmi incorrecta </entry>
+<entry key = "error.xmi.import"> Error durante la importación del modelo </entry>
+<entry key = "error.generation.database"> Error durante la generación de la base de datos </entry>
+<entry key = "error.generation.database.free.toobig"> Modelo mayor de lo permitido para cuentas gratuitas </entry>
+<entry key = "error.generation.application"> Error durante la generación de la aplicación </entry>
+<entry key = "error.trigger.multiplicity.min"> Multiplicidad mínima violada</entry>
+<entry key = "error.trigger.multiplicity.max"> Multiplicidad máxima violada</entry>
+
+<entry key = "heading.ddl.script"> DDL Script para la generación de la base de datos </entry>
+<entry key = "heading.ddl.table">Tabla para guardar información de</entry>
+<entry key="heading.ddl.attribute">Atributo para guardar información de</entry>
+<entry key = "heading.ddl.drop.table"> Borrado de la versión anterior de las tablas </entry>
+<entry key = "heading.ddl.sequence"> Creación de los contadores automáticos para las tablas </entry>
+
+<entry key = "heading.yml.script"> Esquema YML correspondiente al modelo </entry>
+<entry key = "heading.yml.table"> Clase para guardar los datos de </entry>
+<entry key = "heading.yml.attribute"> Atributo para guardar los datos de </entry>
+
+<entry key = "heading.python.admin.script"> Archivo Admin para el modelo </entry>
+<entry key = "heading.python.domain.script"> Archivo Domain para el modelo </entry>
+<entry key = "heading.python.table"> Clase para guardar los datos de </entry>
+<entry key = "heading.python.attribute"> Atributo para guardar los datos de </entry>
+
+<entry key = "app.caption.form.visualization"> Lista de  </entry>
+<entry key = "app.caption.form.insert"> Inserción de un nuevo </entry>
+<entry key = "app.caption.form.update"> Modificación de los datos </entry>
+
+<entry key = "app.caption.menu.item.visualization"> Visualizar </entry>
+<entry key = "app.caption.menu.item.insert"> Insertar </entry>
+<entry key = "app.caption.menu.item.file"> Archivo </entry>
+<entry key = "app.caption.menu.item.exit"> Salir </entry>
+<entry key = "app.caption.menu.item.about"> Acerca de </entry>
+<entry key = "app.caption.menu.item.home"> Inicio </entry>
+<entry key = "app.caption.button.close"> Cerrar </entry>
+<entry key = "app.caption.button.insert"> Insertar </entry>
+<entry key = "app.caption.button.update"> Editar </entry>
+<entry key = "app.caption.button.delete"> Borrar </entry>
+<entry key = "app.caption.button.details"> Visualizar </entry>
+<entry key = "app.caption.button.submit"> Submit </entry>
+
+<entry key = "app.caption.form.main.prefix"> Binvenido a la aplicación</entry>
+<entry key = "app.caption.form.main.suffix"> Selecciona los ítems del menú para empezar</entry>
+<entry key = "app.caption.homepage.suffix"> Clica este link para empezar</entry>
+<entry key = "app.caption.form.login"> Introduce tu nombre de usuario y contraseña </entry>
+<entry key = "app.caption.editbox.login">Usuario</entry>
+<entry key = "app.caption.editbox.password">Contraseña</entry>
+<entry key = "error.connecting.database"> Conexión con la base de datos no disponible</entry>
+<entry key = "error.connecting.database.info.missing"> Tienes que introducir el nombre de usuario y la contraseña </entry>
+<entry key = "error.correction.request"> Corriga los siguientes errores por favor:</entry>
+<entry key = "app.exception.handling.goback"> Vuelve a probar</entry>
+
+<entry key = "app.comment.code.connection"> Script para gestionar la connexión con la base de datos</entry>
+<entry key = "app.comment.code.utils"> Script con funciones auxiliares</entry>
+<entry key = "app.comment.code.form.visualize"> Script encargado de mostrar datos de tipo </entry>
+<entry key = "app.comment.code.persistent.connection"> La conexión se crea como una conexión persistente: se reutiliza en cada script</entry>
+<entry key = "app.comment.code.connection.succesful"> Si estamos conectados, el usuario es redirigido a la página principal </entry>
+
+</properties>

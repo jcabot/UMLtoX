@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>English language </comment>
+
+
+<entry key="file.not.found"> File not found </entry>
+<entry key="model.parameter.not.found"> Model parameter not found </entry>
+<entry key = "unexpected.xmi.format"> Wrong xmi file structure </entry>
+<entry key = "error.xmi.import"> Error when importing the model </entry>
+<entry key = "error.generation.database"> Error when generating the database </entry>
+<entry key = "error.generation.database.free.toobig"> Model exceeds maximum size for a free account</entry>
+<entry key = "error.generation.application"> Error when generating the application </entry>
+<entry key = "error.trigger.multiplicity.min"> Minimum multiplicity constraint violated</entry>
+<entry key = "error.trigger.multiplicity.max"> Maximum multiplicity constraint violated</entry>
+
+
+<entry key = "heading.ddl.script"> DDL Script for generating the database </entry>
+<entry key = "heading.ddl.table"> Table for storing the data of </entry>
+<entry key = "heading.ddl.attribute"> Attribute for storing the data of </entry>
+<entry key = "heading.ddl.drop.table"> Deletion of previous version of the tables </entry>
+<entry key = "heading.ddl.sequence"> Creation of the sequence counters for the tables </entry>
+
+<entry key = "heading.yml.script"> YML Schema corresponding to the model </entry>
+<entry key = "heading.yml.table"> Class for storing the data of </entry>
+<entry key = "heading.yml.attribute"> Attribute for storing the data of </entry>
+
+<entry key = "heading.python.admin.script"> Admin file for the model </entry>
+<entry key = "heading.python.domain.script"> Domain file for the model </entry>
+<entry key = "heading.python.table"> Class to store the data of </entry>
+<entry key = "heading.python.attribute"> Attribute to store the data of </entry>
+
+<entry key = "app.caption.form.visualization"> List of </entry>
+<entry key = "app.caption.form.insert"> Creation of a new </entry>
+<entry key = "app.caption.form.update"> Modification of the current information </entry>
+<entry key = "app.caption.menu.item.visualization"> Visualize </entry>
+<entry key = "app.caption.menu.item.insert"> Insert </entry>
+<entry key = "app.caption.menu.item.file"> File </entry>
+<entry key = "app.caption.menu.item.exit"> Exit </entry>
+<entry key = "app.caption.menu.item.about"> About </entry>
+<entry key = "app.caption.menu.item.home"> Home </entry>
+
+<entry key = "app.caption.button.close"> Close </entry>
+<entry key = "app.caption.button.insert"> Insert </entry>
+<entry key = "app.caption.button.update"> Edit </entry>
+<entry key = "app.caption.button.delete"> Delete </entry>
+<entry key = "app.caption.button.details"> View </entry>
+<entry key = "app.caption.button.submit"> Submit </entry>
+
+<entry key = "app.caption.form.main.prefix"> Welcome to the </entry>
+<entry key = "app.caption.form.main.suffix"> Use the items on the menu to start</entry>
+<entry key = "app.caption.homepage.suffix"> Follow this link to start</entry>
+<entry key = "app.caption.form.login"> Introduce your login and password </entry>
+<entry key = "app.caption.editbox.login">Login</entry>
+<entry key = "app.caption.editbox.password">Password</entry>
+<entry key = "error.connecting.database"> Database connection not available</entry>
+<entry key = "error.correction.request"> Please correct the following errors:</entry>
+<entry key = "error.connecting.database.info.missing"> You must enter the login and password</entry>
+<entry key = "app.exception.handling.goback"> Try again</entry>
+
+<entry key = "app.comment.code.connection"> Script to manage the database connection</entry>
+<entry key = "app.comment.code.utils"> Script containing auxiliary functions</entry>
+<entry key = "app.comment.code.form.visualize"> Script to show information about the type </entry>
+
+<entry key = "app.comment.code.persistent.connection"> The connexion is created as a persistent connexion: it is reused in each script</entry>
+<entry key = "app.comment.code.connection.succesful"> If we are connected, the user is redirected to the main form </entry>
+
+</properties>
